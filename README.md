@@ -9,4 +9,12 @@ For demostrating how to apply workflow to machine learning system.
 
 ![flowchart](flowchart.png)
 
+## Run
 
+based on python 3.6.8
+
+```
+pip install -r requirement.txt
+
+dagit
+```
