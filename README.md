@@ -2,3 +2,11 @@
 
 ## Purpose
 For demostrating how to apply workflow to machine learning system.
+
+## Demo
+
+![topology](topology.png)
+
+![flowchart](flowchart.png)
+
+
